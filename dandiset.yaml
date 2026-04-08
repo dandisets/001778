@@ -11,8 +11,8 @@ assetsSummary:
   approach: []
   dataStandard: []
   measurementTechnique: []
-  numberOfBytes: 416622233
-  numberOfFiles: 1
+  numberOfBytes: 3096250958
+  numberOfFiles: 9
   schemaKey: AssetsSummary
   species: []
   variableMeasured: []
@@ -71,7 +71,7 @@ description: 'This dataset contains recordings of neural activity using two-phot
   with subsets of neurons in the neural recording dataset. The gene expression was
   quantified using HCR (Hybridization Chain Reaction) method and multiple rounds of
   multichannel lightsheet imaging. Transcriptomic data in available in a Github repository:
-  https://github.com/omidzobeiri/CellxGene_tables_U01_130907_DS001532'
+  https://github.com/omidzobeiri/CellxGene_tables_U01_130907_DS001778'
 ethicsApproval: []
 id: DANDI:001778/draft
 identifier: DANDI:001778
