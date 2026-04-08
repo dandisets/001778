@@ -3,16 +3,35 @@
 # and obtained from the dandiarchive.
 '@context': 
   https://raw.githubusercontent.com/dandi/schema/master/releases/0.7.0/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard: []
+  measurementTechnique: []
+  numberOfBytes: 416622233
+  numberOfFiles: 1
   schemaKey: AssetsSummary
-citation: Zobeiri, Omid (2026) Targeted mFISH pan-inhibitory dataset (Version draft)
-  [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001778/draft
+  species: []
+  variableMeasured: []
+citation: Zobeiri, Omid (2026) Two-photon calcium imaging of responses to drifting
+  gratings and natural movies in the mouse visual cortex and Spatial transcriptomics
+  data (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001778/draft
 contributor:
+- email: antona@alleninstitute.org
+  identifier: 0000-0003-1106-8310
+  name: Arkhipov, Anton
+  roleName:
+  - dcite:ContactPerson
+  - dcite:ProjectLeader
+  schemaKey: Person
+- identifier: 0000-0002-5271-2291
+  name: Garret, Marina
+  schemaKey: Person
+- name: Groblewski, Peter
+  schemaKey: Person
 - affiliation: []
   email: omidzobeiri@gmail.com
   includeInCitation: true
@@ -20,18 +39,59 @@ contributor:
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
+- name: Aloi, Macarena
+  schemaKey: Person
+- name: Caldejon, Shiella
+  schemaKey: Person
+- name: Seid, Sam
+  schemaKey: Person
+- name: Willford, Ali
+  schemaKey: Person
+- name: Campos, Jazmin
+  schemaKey: Person
+- name: Berry, Carson
+  schemaKey: Person
+- name: Davis, Matt
+  schemaKey: Person
+- awardNumber: 1 U01 MH 130907-02
+  name: National Institutes of Health (NIH)
+  schemaKey: Organization
 dateCreated: '2026-04-06T21:24:23.363973+00:00'
-description: The optical-physiology part of the curated data for the Targeted mFISH
-  pan-inhibitory datase
+description: 'This dataset contains recordings of neural activity using two-photon
+  calcium imaging from the mouse primary visual cortex (VISp). The mice had GCaMP8s
+  expressed in their inhibitory interneurons (Slc32a1). The experiments were conducted
+  using the same data collection pipeline as the Allen Brain Observatory (de Vries
+  et al., Nature Neurosci., 2020), with an improved microscopy system that uses multi-plane
+  imaging. A running wheel was used to track locomotion. The recordings were performed
+  during two different visual stimulus sets: 1. STAGE_0: Natural movie clips. 2. STAGE_1:
+  Drifting gratings presented as full-field stimuli (approximately 120x90 degrees
+  of visual space). These gratings were presented in 8 directions, at 5 contrasts
+  (5%, 10%, 20%, 40%, 80%), as well as 8 directions, and 5 temporal frequencies (0.5,
+  1, 2, 4, 8 Hz). This dataset also includes the gene expression tables associated
+  with subsets of neurons in the neural recording dataset. The gene expression was
+  quantified using HCR (Hybridization Chain Reaction) method and multiple rounds of
+  multichannel lightsheet imaging. Transcriptomic data in available in a Github repository:
+  https://github.com/omidzobeiri/CellxGene_tables_U01_130907_DS001532'
+ethicsApproval: []
 id: DANDI:001778/draft
 identifier: DANDI:001778
+keywords:
+- mouse
+- 2-photon calcium imaging
+- spatial transcriptomics
+- HCR
+- Visual cortex
+- Inhibitory
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001778/versions/draft/assets/
-name: Targeted mFISH pan-inhibitory dataset
+name: Two-photon calcium imaging of responses to drifting gratings and natural movies
+  in the mouse visual cortex and Spatial transcriptomics data
+relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.7.0
 url: https://dandiarchive.org/dandiset/001778/draft
 version: draft
+wasGeneratedBy: []
