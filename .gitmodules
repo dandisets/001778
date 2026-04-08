@@ -38,3 +38,59 @@
 	path = multiplane-ophys_767022_2025-03-04_08-55-07_processed_         2025-09-06_07-56-20.nwb.zarr
 	url = https://github.com/dandizarrs/f3090250-befe-4082-bb12-f573c798a3c2
 	datalad-id = e675c2d7-4844-442a-af0f-c2de04b47933
+[submodule "multiplane-ophys_767022_2025-03-05_09-15-47_processed_         2025-09-06_08-26-07.nwb.zarr"]
+	path = multiplane-ophys_767022_2025-03-05_09-15-47_processed_         2025-09-06_08-26-07.nwb.zarr
+	url = https://github.com/dandizarrs/4e1d297f-0b59-4c5f-9921-b6f2ae43fbb2
+	datalad-id = f2e6e45a-b055-4d19-81cc-22359e5fec3f
+[submodule "multiplane-ophys_767022_2025-03-06_09-17-27_processed_         2025-09-06_09-56-18.nwb.zarr"]
+	path = multiplane-ophys_767022_2025-03-06_09-17-27_processed_         2025-09-06_09-56-18.nwb.zarr
+	url = https://github.com/dandizarrs/5634113c-8845-466b-b1c9-37dd0916b27a
+	datalad-id = fca62b5a-9def-4b91-86b2-6e1ec3c23571
+[submodule "multiplane-ophys_782149_2025-05-02_10-55-09_processed_         2025-09-12_08-26-56.nwb.zarr"]
+	path = multiplane-ophys_782149_2025-05-02_10-55-09_processed_         2025-09-12_08-26-56.nwb.zarr
+	url = https://github.com/dandizarrs/fb7d2513-4b16-4fb6-a9d0-a51154ed3edd
+	datalad-id = 1aad36e1-793f-486f-be57-194bebcc320f
+[submodule "multiplane-ophys_782149_2025-05-05_11-39-29_processed_         2025-09-12_07-52-58.nwb.zarr"]
+	path = multiplane-ophys_782149_2025-05-05_11-39-29_processed_         2025-09-12_07-52-58.nwb.zarr
+	url = https://github.com/dandizarrs/7ef5205b-aa9f-48a4-b8ae-0210a454ea13
+	datalad-id = f6825b90-0e69-430f-862f-c1f8bdcd67fc
+[submodule "multiplane-ophys_782149_2025-05-06_09-18-12_processed_         2025-09-12_08-26-28.nwb.zarr"]
+	path = multiplane-ophys_782149_2025-05-06_09-18-12_processed_         2025-09-12_08-26-28.nwb.zarr
+	url = https://github.com/dandizarrs/60dc0d83-557a-45c0-a5a6-0fd8ffdcb98d
+	datalad-id = e98da832-e3dd-4966-9ba6-8b68fe11a48e
+[submodule "multiplane-ophys_782149_2025-05-07_09-10-44_processed_         2025-09-12_08-33-50.nwb.zarr"]
+	path = multiplane-ophys_782149_2025-05-07_09-10-44_processed_         2025-09-12_08-33-50.nwb.zarr
+	url = https://github.com/dandizarrs/69cbf770-dc57-4e25-9ec8-23f3158ad140
+	datalad-id = 568cdaf4-33d2-4fdb-818c-7f7f24f4060e
+[submodule "multiplane-ophys_788406_2025-07-25_11-13-57_processed_         2025-10-01_03-37-17.nwb.zarr"]
+	path = multiplane-ophys_788406_2025-07-25_11-13-57_processed_         2025-10-01_03-37-17.nwb.zarr
+	url = https://github.com/dandizarrs/be970e81-00f6-447a-b563-7b7476221b29
+	datalad-id = 50d02ed9-f195-477e-836f-ccb70b1069b8
+[submodule "multiplane-ophys_788406_2025-07-23_12-31-02_processed_         2025-10-01_03-59-42.nwb.zarr"]
+	path = multiplane-ophys_788406_2025-07-23_12-31-02_processed_         2025-10-01_03-59-42.nwb.zarr
+	url = https://github.com/dandizarrs/ad753dd1-cd96-47c8-8e92-fe819b7912e7
+	datalad-id = d7f05490-af5b-4401-be80-be1628302ed5
+[submodule "multiplane-ophys_788406_2025-07-28_12-22-00_processed_         2025-10-01_04-27-40.nwb.zarr"]
+	path = multiplane-ophys_788406_2025-07-28_12-22-00_processed_         2025-10-01_04-27-40.nwb.zarr
+	url = https://github.com/dandizarrs/5d4e8cb2-4078-47fa-aca2-f92dc34bf0f4
+	datalad-id = 5c4f000a-ce72-4ec9-aabf-a4dbea0e31c2
+[submodule "multiplane-ophys_788406_2025-07-29_10-20-34_processed_         2025-10-01_05-25-39.nwb.zarr"]
+	path = multiplane-ophys_788406_2025-07-29_10-20-34_processed_         2025-10-01_05-25-39.nwb.zarr
+	url = https://github.com/dandizarrs/22098eed-4a09-493e-a6fe-329a30eeb7a5
+	datalad-id = c1ea1528-cfdd-4e73-a9dd-6d194d0ce766
+[submodule "multiplane-ophys_790322_2025-08-02_12-29-52_processed_         2025-09-30_22-47-19.nwb.zarr"]
+	path = multiplane-ophys_790322_2025-08-02_12-29-52_processed_         2025-09-30_22-47-19.nwb.zarr
+	url = https://github.com/dandizarrs/f72466ba-3e85-4fb2-a1b6-1cf51acff5ec
+	datalad-id = 9ad12bc5-8abf-4c6f-85af-7f174b1e57ff
+[submodule "multiplane-ophys_790322_2025-07-12_10-41-51_processed_         2025-10-06_23-30-36.nwb.zarr"]
+	path = multiplane-ophys_790322_2025-07-12_10-41-51_processed_         2025-10-06_23-30-36.nwb.zarr
+	url = https://github.com/dandizarrs/2b15f4ba-02a3-4b27-8a5b-9f138ab573b4
+	datalad-id = a691cf3d-a3d1-4793-bdcd-10743075aee7
+[submodule "multiplane-ophys_790322_2025-08-05_08-54-42_processed_         2025-09-30_23-08-06.nwb.zarr"]
+	path = multiplane-ophys_790322_2025-08-05_08-54-42_processed_         2025-09-30_23-08-06.nwb.zarr
+	url = https://github.com/dandizarrs/d6371e74-f295-4899-a6d3-b1b497898229
+	datalad-id = 38ac47b6-80fe-41fb-8fc9-6ced84c38abf
+[submodule "multiplane-ophys_790322_2025-08-06_09-43-14_processed_         2025-09-30_23-47-53.nwb.zarr"]
+	path = multiplane-ophys_790322_2025-08-06_09-43-14_processed_         2025-09-30_23-47-53.nwb.zarr
+	url = https://github.com/dandizarrs/55b0eaf2-97db-4e54-945c-6bea7d076ea8
+	datalad-id = 7d181e70-3045-4a62-89a6-3c64be79d0cd
